@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/hazel/Dev/ASIOServer",
+  "arguments": ["/usr/lib64/ccache/gcc", "-c", "-m64", "-g", "-O0", "-std=c++23", "-Ilib", "-DWITH_GZFILEOP", "-I", "/home/hazel/.xmake/packages/a/asio/1.34.2/08f9e97208304bfe9403bd2884513fa1/include", "-I", "/home/hazel/.xmake/packages/g/glaze/v5.6.0/e2f090b066764c2ea12984d7604424ae/include", "-I", "/home/hazel/.xmake/packages/g/gdal/3.11.3/c21bdf7ac76f4312b68ba528a04a615e/include", "-I", "/usr/include/webp", "-I", "/home/hazel/.xmake/packages/o/openjpeg/v2.5.3/33c3e63912934f9e9a5ca1c2b0f2f184/include/openjpeg-2.5", "-I", "/home/hazel/.xmake/packages/l/lcms/2.17/2fcef94976e74586958e195558a63460/include", "-I", "/home/hazel/.xmake/packages/l/libtiff/v4.7.0/86b8f4ea6a054dc49fa6bea03d2bda31/include", "-I", "/home/hazel/.xmake/packages/l/libpng/v1.6.50/a66d5c5312284fb791763d0eb000c4f9/include", "-fmodules", "-D_GLIBCXX_USE_CXX11_ABI=1", "-fmodule-mapper=/tmp/.xmake1000/251028/dd86acc4189a9764a71670ffffc691df/main.cpp.mapper.txt", "-o", "build/.objs/ASIOServer/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/hazel/Dev/ASIOServer",
+  "arguments": ["/usr/lib64/ccache/gcc", "-c", "-m64", "-g", "-O0", "-Ilib/picohttpparser", "-o", "build/.objs/picohttpparser/linux/x86_64/debug/lib/picohttpparser/picohttpparser.c.o", "lib/picohttpparser/picohttpparser.c"],
+  "file": "lib/picohttpparser/picohttpparser.c"
+}]

@@ -1,0 +1,11 @@
+// module;
+// #include "glaze/json.hpp"
+// export module glaze;
+//
+// namespace glz{
+// 	export using glz::obj;
+// 	export using glz::arr;
+//
+// 	export using glz::write_json;
+// 	export using glz::read_json;
+// };
